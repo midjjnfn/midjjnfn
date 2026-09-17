@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mouna RAMDANI
 - 👀 I’m interested in DEV
 - 🌱 I’m currently learning CS
-- 📫 You can contact me: ramdanimounapro@gmail.com /https://www.linkedin.com/in/mouna-ramdani-979649239/ 
 
 <!---
 midjjnfn/midjjnfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
